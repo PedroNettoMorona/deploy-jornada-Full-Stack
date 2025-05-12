@@ -25,5 +25,5 @@ app.get('/songs', async (request, response) => {
 })
 
 app.listen(PORT, () => {
-    console.log("Servidar rodando")
+    console.log("Servidor rodando na porta 3001")
 })
